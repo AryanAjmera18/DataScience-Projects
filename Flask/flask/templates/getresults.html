@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marks Entry</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Enter Marks</h1>
+    </header>
+
+    <main>
+        <form action="/submit" method="post">
+            <div>
+                <label for="maths">Maths:</label>
+                <input type="text" id="maths" name="maths" min="0" max="100" required>
+            </div>
+            <div>
+                <label for="datascience">Data Science:</label>
+                <input type="text" id="datascience" name="datascience" min="0" max="100" required>
+            </div>
+            <div>
+                <label for="physics">Physics:</label>
+                <input type="text" id="physics" name="physics" min="0" max="100" required>
+            </div>
+            <div>
+                <label for="chemistry">Chemistry:</label>
+                <input type="text" id="chemistry" name="chemistry" min="0" max="100" required>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>

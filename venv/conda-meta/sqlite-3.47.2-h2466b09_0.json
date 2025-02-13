@@ -1,0 +1,44 @@
+{
+  "build": "h2466b09_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "libsqlite 3.47.2 h67fdade_0"
+  ],
+  "extracted_package_dir": "C:\\Users\\aryan\\anaconda3\\pkgs\\sqlite-3.47.2-h2466b09_0",
+  "files": [
+    "Library/bin/sqlite3.exe"
+  ],
+  "fn": "sqlite-3.47.2-h2466b09_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "C:\\Users\\aryan\\anaconda3\\pkgs\\sqlite-3.47.2-h2466b09_0",
+    "type": 1
+  },
+  "md5": "0ff53f37371775ceded312bf81ca80a4",
+  "name": "sqlite",
+  "package_tarball_full_path": "C:\\Users\\aryan\\anaconda3\\pkgs\\sqlite-3.47.2-h2466b09_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/sqlite3.exe",
+        "path_type": "hardlink",
+        "sha256": "a377a8a461e10e798c3108d5f2de977ebbf0889018fc794a30f434f3ec25cbce",
+        "sha256_in_prefix": "a377a8a461e10e798c3108d5f2de977ebbf0889018fc794a30f434f3ec25cbce",
+        "size_in_bytes": 1924096
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4886e43acd6d174eefaf9727c7e655168fc0fb360ed20ad0b0076fd7ad645243",
+  "size": 915915,
+  "subdir": "win-64",
+  "timestamp": 1733762142000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sqlite-3.47.2-h2466b09_0.conda",
+  "version": "3.47.2"
+}

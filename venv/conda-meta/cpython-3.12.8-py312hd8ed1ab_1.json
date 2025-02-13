@@ -1,0 +1,34 @@
+{
+  "build": "py312hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python_abi * *_cp312",
+    "python 3.12.8.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\aryan\\anaconda3\\pkgs\\cpython-3.12.8-py312hd8ed1ab_1",
+  "files": [],
+  "fn": "cpython-3.12.8-py312hd8ed1ab_1.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "C:\\Users\\aryan\\anaconda3\\pkgs\\cpython-3.12.8-py312hd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "caa04d37126e82822468d6bdf50f5ebd",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\aryan\\anaconda3\\pkgs\\cpython-3.12.8-py312hd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "05413d84485086301e5bd7c03fca2caae91f75474d99d9fc815cec912332452b",
+  "size": 44751,
+  "subdir": "noarch",
+  "timestamp": 1733407917000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.12.8-py312hd8ed1ab_1.conda",
+  "version": "3.12.8"
+}
