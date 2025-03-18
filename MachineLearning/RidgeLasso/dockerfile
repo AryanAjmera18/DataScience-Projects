@@ -1,0 +1,5 @@
+FROM python:3.8-bullseye
+COPY . /RidgeLasso
+WORKDIR /RidgeLasso
+RUN pip install -r requirement.txt
+CMD python application.py
